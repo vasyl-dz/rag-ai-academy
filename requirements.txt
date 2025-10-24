@@ -1,0 +1,8 @@
+langchain-community
+langchain-text-splitters
+pypdf
+openai-whisper
+sentence-transformers
+chromadb
+transformers
+torch
